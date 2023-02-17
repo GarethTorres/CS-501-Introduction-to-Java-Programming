@@ -1,3 +1,3 @@
 # CS-501-Introduction-to-Java-Programming
-Assignments
+Assignments and Final Project
 Grade: A
